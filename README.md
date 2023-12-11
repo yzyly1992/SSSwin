@@ -1,4 +1,4 @@
-# SSSwin: SSSwin: Sequential Spectral Swin Transformer for Solar Panel Mapping in Satellite Imagery
+# SSSwin: Sequential Spectral Swin Transformer for Solar Panel Mapping in Satellite Imagery
 
 Zhiyuan Yang, Ryan Rad
 
